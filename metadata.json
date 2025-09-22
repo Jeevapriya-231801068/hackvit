@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Car Damage Assessor",
+  "description": "An advanced multimodal AI engine for vehicle damage assessment. Upload an image and provide claim details to receive a hierarchical damage classification, AI-generated repair cost estimation, and a simulated fraud analysis.",
+  "requestFramePermissions": []
+}

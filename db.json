@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "adjuster",
+      "password": "password123",
+      "role": "adjuster"
+    },
+    {
+      "id": 2,
+      "username": "manager",
+      "password": "password123",
+      "role": "manager"
+    }
+  ]
+}
